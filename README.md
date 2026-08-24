@@ -1,5 +1,6 @@
+click the cat ! <p align="center">
 <a href="https://guns.lol/danysoulzzz">
-  <img src="https://i.postimg.cc/vHzFXBMD/5F93FEEC-3368-4F75-A6A7-6D72F1DCF46B.gif" width="150">
+  <img src="https://i.postimg.cc/vHzFXBMD/5F93FEEC-3368-4F75-A6A7-6D72F1DCF46B.gif" width="80">
 </a>
 
   <p align="center">
