@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/2yCXNnh9/186993B6-7820-4E6F-A586-34A09BBDDD38.gif" width="150">
-
 
   <p align="center">
   <img src="https://i.postimg.cc/dVWFHVPY/IMG-6705.gif" width="90">
