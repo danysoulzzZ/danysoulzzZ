@@ -2,6 +2,9 @@ click the cat ! <p align="center">
 <a href="https://guns.lol/danysoulzzz">
   <img src="https://i.postimg.cc/vHzFXBMD/5F93FEEC-3368-4F75-A6A7-6D72F1DCF46B.gif" width="100">
 </a>
+  <br>
+  Click the cat
+</p>
 
   <p align="center">
   <img src="https://i.postimg.cc/dVWFHVPY/IMG-6705.gif" width="90">
