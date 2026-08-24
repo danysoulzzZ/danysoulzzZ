@@ -25,4 +25,6 @@
   </a>
 </p>
 
-[ata](https://killursouls.atabook.org)
+<p align="center">
+  <a href="https://killursouls.atabook.org">ata!</a>
+</p>
