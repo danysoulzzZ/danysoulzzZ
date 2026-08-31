@@ -1,4 +1,10 @@
- <p align="center">
+<p align="center">
+  <img src="https://i.postimg.cc/fLB7FVyH/EA3F6BED-D4D6-4E68-89BF-77A8C891F5ED.gif" width="500">
+</p>
+ 
+ 
+ 
+<p align="center">
 <a href="https://guns.lol/danysoulzzz">
   <img src="https://i.postimg.cc/vHzFXBMD/5F93FEEC-3368-4F75-A6A7-6D72F1DCF46B.gif" width="100">
 </a>
