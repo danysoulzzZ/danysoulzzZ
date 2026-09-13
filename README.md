@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://killursouls.atabook.org">ata!</a>　<a href="https://danysoulzzz.straw.page">strawpage! .ᐟ</a>
+  <a href="https://killursouls.atabook.org">ata!</a> ˙ࡇ˙　<a href="https://danysoulzzz.straw.page">strawpage! .ᐟ</a>
 </p>
 
 
