@@ -1,4 +1,11 @@
 <p align="center">
+  <a href="https://killursouls.atabook.org">ata!</a>　<a href="https://danysoulzzz.straw.page">strawpage! .ᐟ</a>
+</p>
+
+
+
+
+<p align="center">
   <img src="https://i.postimg.cc/fWvWGxww/IMG-6918.gif" width="400">
 </p>
  
@@ -30,8 +37,4 @@
   <a href="https://postimg.cc/Z953VYyz">
     <img src="https://i.postimg.cc/cJQm1rxC/1B873111-C4A0-4026-84F1-1BE56B985DAD.gif" width="150">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://killursouls.atabook.org">ata!</a>
 </p>
