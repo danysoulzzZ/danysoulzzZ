@@ -19,7 +19,6 @@
   Click the cat
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=800&pause=1000&color=390C69&width=435&lines=Waiting+for+your+call%2C+I'm+sick;Listening+to+the+song+we+used+to+sing+in+the+car;Do+you+remember%2C+Butterfly%2C+Early+Summer;It's+playing+on+repeat;Just+like+when+we+would+meet%2C+like+when+we+would+meet" alt="Typing SVG" /></a>
 
   <p align="center">
   <img src="https://i.postimg.cc/dVWFHVPY/IMG-6705.gif" width="90">
