@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/samwax.gif">
+  <img src="(https://files.catbox.moe/samwax.gif)">
 </p>
 
 ![](https://i.postimg.cc/6qZf8qwJ/IMG-6392.gif)
