@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/LhrhcZBv/2-E72-FF0-C-770-C-4-F0-D-9240-8-E60-D663-DCCB.gif">
+  <img src="https://files.catbox.moe/samwax.gif)">
 </p>
 
 ![](https://i.postimg.cc/6qZf8qwJ/IMG-6392.gif)
