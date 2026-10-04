@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/V6f4F0NQ/IMG-7727.gif" width="100%">
+  <img src="[https://i.postimg.cc/V6f4F0NQ/IMG-7727.gif](https://files.catbox.moe/samwax.gif)" width="100%">
 </p>
 
 
