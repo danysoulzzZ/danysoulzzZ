@@ -10,7 +10,7 @@
 </p>
  
  
- 
+ https://ezgif.com/video-to-gif/ezgif-76c3278f607ffd30.mov.html
 <p align="center">
 <a href="https://guns.lol/danysoulzzz">
   <img src="https://i.postimg.cc/dVWFHVPY/IMG-6705.gif" width="90">
